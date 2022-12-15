@@ -23,12 +23,12 @@ fields_of_interests:
 ]
 
 currently_learning: ["Python", "SQL", "Web Development",]
-hobbies: ["Breakdancing", "Learning languages",]
+hobbies: ["Breakdancing", "Learning Languages",]
 
 2023 Goals:
 [
   "Create projects on renewable energy",
-  "Do not give up on coding",
+  "DON'T give up on coding",
 ]
 
 ```
