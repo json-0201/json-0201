@@ -3,7 +3,7 @@
 ```yaml
 
 name: Jimmy Son
-location: Riverside, CA
+location: CA, United States
 contact: ghks940201@ucla.edu
 current_job: actively seeking new opportunities
 
@@ -19,11 +19,29 @@ fields_of_interests:
   "Renewable Energy",
   "Data Science",
   "Machine Learning",
-  "Back End",
+  "Backend Development",
 ]
 
 currently_learning: ["Python", "SQL", "Web Development",]
-2023 Goals: ["Create projects on renewable energy", "Do not give up on coding",]
 hobbies: ["Breakdancing", "Learning languages",]
 
+2023 Goals:
+[
+  "Create projects on renewable energy",
+  "Do not give up on coding",
+]
+
 ```
+
+<h2 align="center">My Current Dictionary</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="JupyterNotebook" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</p>
