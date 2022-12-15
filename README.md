@@ -5,7 +5,8 @@
 name: Jimmy Son
 location: CA, United States
 contact: ghks940201@ucla.edu
-current_job: actively seeking new opportunities
+company: None
+job_title: actively seeking new opportunities
 
 education:
 [
@@ -33,7 +34,7 @@ hobbies: ["Breakdancing", "Learning Languages",]
 
 ```
 
-<h2 align="center">My Current Dictionary</h2>
+<h2 align="center">My Dictionary</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="JupyterNotebook" width="50" height="50"/>
