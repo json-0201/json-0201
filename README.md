@@ -5,8 +5,6 @@
 name: Jimmy Son
 location: CA, United States
 contact: ghks940201@ucla.edu
-company: None
-job_title: actively seeking new opportunities
 
 education:
 [
