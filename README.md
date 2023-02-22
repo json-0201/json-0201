@@ -11,7 +11,7 @@ education:
 [
   "Bachelor's in Mechanical Engineering (2013-2017)",
   "Master's in Photovoltaic Solar Energy (2021-2022)",
-  "Self-Taught Developer (In Progress)",
+  "Aspiring Software Developer (In Progress)",
 ]
 
 fields_of_interests:
