@@ -28,7 +28,7 @@ hobbies: ["Breakdancing", "Learning Languages",]
 2023 Goals:
 [
   "Create projects on renewable energy",
-  "DON'T give up on coding",
+  "Keep writing codes",
 ]
 
 ```
