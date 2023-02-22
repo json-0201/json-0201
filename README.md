@@ -5,6 +5,7 @@
 name: Jimmy Son
 location: CA, United States
 contact: ghks940201@ucla.edu
+current job: Solar PV Designer
 
 education:
 [
