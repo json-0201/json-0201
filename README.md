@@ -28,6 +28,7 @@ hobbies: ["Breakdancing", "Learning Languages",]
 2023 Goals:
 [
   "Create projects on renewable energy",
+  "Improve algorithm skills",
   "Keep writing codes",
 ]
 
