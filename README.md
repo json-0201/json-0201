@@ -1,5 +1,3 @@
-![header image](https://github.com/json-0201/json-0201/blob/main/github-header-image.png?raw=true)
-
 ```yaml
 
 name: Jimmy Son
@@ -23,7 +21,7 @@ fields_of_interests:
 ]
 
 currently_learning: ["Python", "SQL", "Web Development",]
-hobbies: ["Breakdancing", "Learning Languages",]
+hobbies: ["Dancing", "Learning Languages",]
 
 2023 Goals:
 [
